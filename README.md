@@ -1,6 +1,10 @@
 # Stronghold HD - Winter Mod
 Original Stronghold in Winter. This mod adds visual changes for Stronghold HD. Rework of original textures for Winter season. The game appearance is Brighter.
-
+# Credits and Thanks
+Special Thanks to [Firefly Studios](https://fireflyworlds.com/) for creating Stronghold series.<br>
+Thanks to [PodeCaradox](https://github.com/PodeCaradox) for making Gm1 Konverter. <br>
+And other Mod creators for inspiration. <br>
+All in-game textures have been hand-made by Razan using [Krita](https://krita.org/)
 # How to Install from Google Drive
 Link to a Stronghold HD - Winter Mod zip folder - https://drive.google.com/file/d/1CJohyBhCJe7uLJ7fA7eA_V5VxTxxQ2IN/view?usp=sharing
   - Download the Stronghold HD Winter Mod 1.1 zip folder and open
